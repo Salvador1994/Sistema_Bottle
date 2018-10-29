@@ -1,0 +1,9 @@
+body{
+    background: url(https://abinc.org.br/novo/wp-content/uploads/2016/11/Associados1.jpg);
+	background-color: #444;
+    background: url(https://abinc.org.br/novo/wp-content/uploads/2016/11/Associados1.jpg),url(https://abinc.org.br/novo/wp-content/uploads/2016/11/Associados1.jpg),url(https://abinc.org.br/novo/wp-content/uploads/2016/11/Associados1.jpg);    
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
